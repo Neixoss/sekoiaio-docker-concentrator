@@ -1,5 +1,5 @@
 # Sekoia.io Forwarder
-
+# ! This fork was made to port the concentrator on a rasberry pi 5 !
 The files in this repository are used to build and create a Docker container running a Rsyslog as a concentrator to forward events to Sekoia.io.
 
 To catch incoming events and apply the right intake key, this image processes each source on a specific TCP port.
